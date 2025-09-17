@@ -18,3 +18,4 @@ Tools Used
 
 Power BI for data visualization and dashboard creation.
 Dataset includes patient demographics, treatments, costs, outcomes, and satisfaction scores.
+https://github.com/mujtaba334/patient-data/blob/main/Screenshot%202025-09-17%20085414.png
